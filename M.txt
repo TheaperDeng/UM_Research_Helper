@@ -1,0 +1,51 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMM             MMMMMMMMMMMMMMMMM             MMMMMMMMM
+MMMMMMMM              MMMMMMMMMMMMMMM              MMMMMMMMM
+MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+MMMMMMMM                 MMMMMMMMM                 MMMMMMMMM
+MMMMMMMM                  MMMMMMM                  MMMMMMMMM
+MMMMMMMMMMMM               MMMMM                MMMMMMMMMMMM
+MMMMMMMMMMMM                MMM                 MMMMMMMMMMMM
+MMMMMMMMMMMM                 V                  MMMMMMMMMMMM
+MMMMMMMMMMMM                                    MMMMMMMMMMMM
+MMMMMMMMMMMM         ^               ^          MMMMMMMMMMMM
+MMMMMMMMMMMM         MM             MM          MMMMMMMMMMMM
+MMMMMMMMMMMM         MMMM         MMMM          MMMMMMMMMMMM
+MMMMMMMMMMMM         MMMMM       MMMMM          MMMMMMMMMMMM
+MMMMMMMMMMMM         MMMMMM     MMMMMM          MMMMMMMMMMMM
+MMMMMMMM                MMMM   MMMM                MMMMMMMMM
+MMMMMMMM                MMMMMVMMMMM                MMMMMMMMM
+MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+------------------------------------------------------------
+
+             WELCOME TO UMSI RESEARCH HELPER!
+
+------------------------------------------------------------
+
+My program aims to be a research preparation helper for UMSI
+students, especially those students interested in Data Scie-
+nce and analysis. Some students complained to me that they 
+don't know what course they need to take to apply for a pos-
+ition as research assistant for a perticular professor. Or, 
+they want to know which professor is in the specific resear-
+ch area they want. In my program, I will Crawl the facaulty 
+website of MIDAS and the course list website of UMSI and th-
+en give some analysis of the description of each facaulty a-
+nd the courses to find the relationship between professors 
+and courses and then give the user some advise on the profe-
+ssor and course selection.
+
+------------------------------------------------------------
+
+We are fetching data... Please wait... First use may take 15 
+minutes to prepare.

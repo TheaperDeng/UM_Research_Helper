@@ -1,0 +1,40 @@
+The interactive command syntax is as following:
+
+filter {first-aff=} {second-aff=} {campus=}
+Description: 
+	This command sets a new filter for the faculty.
+Argument:
+	 {first-aff=}: Indicate the first affiliation school of the faculty. Please write the exact name of the school.
+	{second-aff=}: Indicate the second affiliation school of the faculty. Please write the exact name of the school.
+	    {campus=}: Indicate the location of the faculty. 'N' for North Campus and 'C' for Central Campus.
+Example:
+	filter campus=C first-aff=Information
+	
+show-filter
+Description:
+	This command shows the current filter on the dataset.
+	
+clear-filter
+Description:
+	This command sets the filter to the default(All data).
+	
+keyword
+Description:
+	This command shows the faculty's description keywords on a scatter point plot.
+
+school-distribution
+Description:
+	This command shows the faculty's first affiliation on a pie chart
+
+keyword-search {a list of words seperated by comma}
+Description:
+	This command use the list of words to search the most match faculty and present on a Stacked Bar Chart
+Example:
+	keyword-search health, language
+	
+course-recommendation {faculty name}
+Description:
+	This command use the list of words to search the most match course in UMSI and present on a table
+Example:
+	course-recommendation Ho-Joon Lee
+
