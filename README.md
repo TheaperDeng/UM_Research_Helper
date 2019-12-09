@@ -16,6 +16,10 @@ I will scrape the school list and their website.(0 challenge point because of le
 
 ● Any other information needed to run the program (e.g., pointer to getting started info for plotly)
 
+```bash
+python proj_final.py
+```
+
 https://plot.ly/
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
