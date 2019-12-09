@@ -98,13 +98,13 @@ The interactive command syntax is as following:
   Description:
   	This command shows the faculty's description keywords on a scatter point plot.
 
-![](pic\0.PNG)
+![](pic/0.PNG)
 
 - **school-distribution**
   Description:
   	This command shows the faculty's first affiliation on a pie chart
 
-![](pic\1.PNG)
+![](pic/1.PNG)
 
 - **keyword-search {a list of words separated by comma}**
   Description:
@@ -112,7 +112,7 @@ The interactive command syntax is as following:
   Example:
   	keyword-search health, language
 
-![](pic\2.PNG)
+![](pic/2.PNG)
 
 - **course-recommendation {faculty name}**
   Description:
@@ -120,4 +120,4 @@ The interactive command syntax is as following:
   Example:
   	course-recommendation Ho-Joon Lee
 
-![](pic\3.PNG)
+![](pic/3.PNG)
