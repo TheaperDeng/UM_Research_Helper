@@ -16,6 +16,8 @@ I will scrape the school list and their website.(0 challenge point because of le
 
 ● Any other information needed to run the program (e.g., pointer to getting started info for plotly)
 
+Run nltk.download('stopwords') and nltk.download('punkt') onceto download the required packages.
+
 ```bash
 python proj_final.py
 ```
