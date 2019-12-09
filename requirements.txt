@@ -1,0 +1,25 @@
+You should be able to import these package:
+
+import json
+
+import requests
+
+from bs4 import BeautifulSoup
+
+import time
+
+import sqlite3
+
+import unittest
+
+import nltk 
+
+from nltk.corpus import stopwords
+
+import re
+
+from functools import reduce
+
+import plotly.graph_objects as go
+
+import plotly.express as px
